@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<!--Class Data-->
+<d2o>
+<class>
+<Name>Barbarian</Name>
+<primaryAbility>Strength</primaryAbility>
+<specialFeats>Fast Movement: Illiteracy: Rage:Uncanny Dodge:Trap Sense:Improved Uncanny Dodge:Damage Reduction:Greater Rage:Idomitable Will:Tireless Rage:Mighty Rage</specialFeats>
+<classSkills>Climb:Craft:Handle Animal:Intimidate:Jump:Listen:Ride:Survival:Swim</classSkills>
+<level>0</level>
+<hitDie>12</hitDie>
+<baseAttack>1</baseAttack>
+<skillPoints>4</skillPoints>
+<spellsDay>2</spellsDay>
+<spellsKnown>0</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>1</saveFortitude>
+<saveReflex>0</saveReflex>
+<saveWill>0</saveWill>
+</class>
+<class>
+<Name>Bard</Name>
+<primaryAbility>Charisma</primaryAbility>
+<specialFeats>Bardic Knowledge:Bardic Music</specialFeats>
+<classSkills>Appraise:Balance:Bluff:Climb:Concentrateion:craft:Decipher Script:Diplomacy:Disguise:Escape Artist:Gather Information:Hide:Jump:Knowledge:Listen:Move Silently: Perform: Profession:Sense Motive:Sleight of Hand:Speak Language:Spellcraft:Swim:Tumble:Use Magic Device</classSkills>
+<level>0</level>
+<hitDie>6</hitDie>
+<baseAttack>0</baseAttack>
+<skillPoints>6</skillPoints>
+<spellsDay>2</spellsDay>
+<spellsKnown>9</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>0</saveFortitude>
+<saveReflex>1</saveReflex>
+<saveWill>1</saveWill>
+</class>
+<class>
+<Name>Cleric</Name>
+<primaryAbility>Wisdom</primaryAbility>
+<specialFeats>Aura:Spontaneous Casting:Turn or Rebuke Undead</specialFeats>
+<classSkills>Concentration:Craft:Diplomacy:Heal:Knowledge(arcana):Knowledge(history):Knowledge(religion):Knowledge(the planes):Profession:Spellcraft</classSkills>
+<level>0</level>
+<hitDie>8</hitDie>
+<baseAttack>0</baseAttack>
+<skillPoints>2</skillPoints>
+<spellsDay>3</spellsDay>
+<spellsKnown>0</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>1</saveFortitude>
+<saveReflex>0</saveReflex>
+<saveWill>1</saveWill>
+</class>
+<class>
+<Name>Druid</Name>
+<primaryAbility>Wisdom</primaryAbility>
+<specialFeats>Animal Companion:Nature Sense:Wild Empathy:Woodland Stride:Trackless Step</specialFeats>
+<classSkills>Concentration:Craft:Diplomacy:Handle Animal:Heal:Knowledge(nature):Listen:Profession:Ride:Spellcraft:Spot:Survival:Swim</classSkills>
+<level>0</level>
+<hitDie>8</hitDie>
+<baseAttack>0</baseAttack>
+<skillPoints>4</skillPoints>
+<spellsDay>3</spellsDay>
+<spellsKnown>0</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>1</saveFortitude>
+<saveReflex>0</saveReflex>
+<saveWill>1</saveWill>
+</class>
+<class>
+<Name>Fighter</Name>
+<primaryAbility>Strength</primaryAbility>
+<specialFeats></specialFeats>
+<classSkills>Climb:Craft:Handle Animal:Intimidate:Jump:Ride:Swim</classSkills>
+<level>0</level>
+<hitDie>10</hitDie>
+<baseAttack>1</baseAttack>
+<skillPoints>2</skillPoints>
+<spellsDay>0</spellsDay>
+<spellsKnown>0</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>1</saveFortitude>
+<saveReflex>0</saveReflex>
+<saveWill>0</saveWill>
+</class>
+<class>
+<Name>Monk</Name>
+<primaryAbility>Dexterity</primaryAbility>
+<specialFeats>Flurry of Blows:Unarmed Strike:Evasion:Fast Movement:Still Mind:Ki Strike:Slow Fall:Purity of Body</specialFeats>
+<classSkills>Balance:Climb:Concentration:Craft:Diplomacy:Escape Artist:Hide:Jump:Knowledge(arcana):Knowledge(religion):Listen:Move Silently:Perform:Profession:Sense Motive:Spot:Swim:Tumble</classSkills>
+<level>0</level>
+<hitDie>8</hitDie>
+<baseAttack>0</baseAttack>
+<skillPoints>4</skillPoints>
+<spellsDay>0</spellsDay>
+<spellsKnown>0</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>1</saveFortitude>
+<saveReflex>1</saveReflex>
+<saveWill>1</saveWill>
+</class>
+<class>
+<Name>Paladin</Name>
+<primaryAbility>Charisma</primaryAbility>
+<specialFeats>Aura of good:Detect evil:Smite evil</specialFeats>
+<classSkills>Concentration:Craft:Diplomacy:Handle Animal:Heal:Knowledge(nobility and royalty):Knowledge(religion):Profession:Ride:Sense Motive</classSkills>
+<level>0</level>
+<hitDie>10</hitDie>
+<baseAttack>1</baseAttack>
+<skillPoints>2</skillPoints>
+<spellsDay>0</spellsDay>
+<spellsKnown>0</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>1</saveFortitude>
+<saveReflex>1</saveReflex>
+<saveWill>0</saveWill>
+</class>
+<class>
+<Name>Ranger</Name>
+<primaryAbility>Dexterity</primaryAbility>
+<specialFeats>Favoured enemy:Track:Wild empathy</specialFeats>
+<classSkills>Climb:Concentration:Craft:Handle Animal:Heal:Hide:Jump:Knowledge(dungeoneering):Knowledge(Geography):Knowledge(nature):Listen:Move Silently:Profession:Ride:Search:Spot:Survival:Swim:Use Rope</classSkills>
+<level>0</level>
+<hitDie>8</hitDie>
+<baseAttack>1</baseAttack>
+<skillPoints>6</skillPoints>
+<spellsDay>0</spellsDay>
+<spellsKnown>0</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>1</saveFortitude>
+<saveReflex>1</saveReflex>
+<saveWill>0</saveWill>
+</class>
+<class>
+<Name>Rogue</Name>
+<primaryAbility>Dexterity</primaryAbility>
+<specialFeats>Sneak Attack:Trap Finding</specialFeats>
+<classSkills>Appraise:Balance:Bluff:Climb:Craft:Decipher Script:Diplomacy:Diable Device:Disguise:Escape Artist:Forgery:Gather Information:Hide:Intimidate:Jump:Knowledge(local):Listen:Move Silently:Open Lock:Perform:Profession:Search:Sense Motive:Sleight of Hand:Spot:Swim:Tumble:Use Magic Device:Use Rope</classSkills>
+<level>0</level>
+<hitDie>6</hitDie>
+<baseAttack>0</baseAttack>
+<skillPoints>8</skillPoints>
+<spellsDay>0</spellsDay>
+<spellsKnown>0</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>0</saveFortitude>
+<saveReflex>1</saveReflex>
+<saveWill>0</saveWill>
+</class>
+<class>
+<Name>Sorcerer</Name>
+<primaryAbility>Charisma</primaryAbility>
+<specialFeats></specialFeats>
+<classSkills>Bluff:Concentration:Craft:Knowledge(arcana):Profession:Spellcraft</classSkills>
+<level>0</level>
+<hitDie>4</hitDie>
+<baseAttack>0</baseAttack>
+<skillPoints>2</skillPoints>
+<spellsDay>0</spellsDay>
+<spellsKnown>4</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>0</saveFortitude>
+<saveReflex>0</saveReflex>
+<saveWill>1</saveWill>
+</class>
+<class>
+<Name>Wizard</Name>
+<primaryAbility></primaryAbility>
+<specialFeats>Summon Familiar:Scribe Scroll</specialFeats>
+<classSkills>Concentration:Craft:Decipher Script:Knowledge:Profession:Spellcraft</classSkills>
+<level>0</level>
+<hitDie>4</hitDie>
+<baseAttack>0</baseAttack>
+<skillPoints>2</skillPoints>
+<spellsDay>3</spellsDay>
+<spellsKnown>0</spellsKnown>
+<skills>0</skills>
+<feats>0</feats>
+<saveFortitude>0</saveFortitude>
+<saveReflex>0</saveReflex>
+<saveWill>1</saveWill>
+</class>
+</d2o>

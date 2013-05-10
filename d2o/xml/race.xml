@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="us-ascii" standalone="yes"?>
+<!--This file contains the race information for the 3.5 ruleset.-->
+<d2o>
+<Race>
+<Name>Human</Name>
+<size>medium</size>
+<BaseSpeed>30</BaseSpeed>
+<languages>Abyssal:Aquan:Auran:Celestial:Draconic:Dwarven:Elven:Giant:Gnome:Goblin:Gnoll:Halfling:Ignan:Infernal:Orc:Sylvan:Terran:Undercommon</languages>
+<languages_choice>Common</languages_choice>
+<FavClass></FavClass>
+<Special></Special>
+<DmNotes></DmNotes>
+</Race>
+<Race>
+<Name>Dwarf</Name>
+<size>medium</size>
+<BaseSpeed>20</BaseSpeed>
+<languages>Giant:Gnome:Goblin:Orc:Terran:Undercommon</languages>
+<languages_choice>Common:Dwarven</languages_choice>
+<FavClass>Fighter</FavClass>
+<Special>Constitution[2]Charisma[-2]</Special>
+<DmNotes>Darkvision,Stonecunning,Stability,+2 saving throw against poison</DmNotes>
+</Race>
+<Race>
+<Name>Elf</Name>
+<size>medium</size>
+<BaseSpeed>30</BaseSpeed>
+<languages>Draconic:Gnoll:Gnome:Goblin:Orc:Sylvan</languages>
+<languages_choice>Common:Elven</languages_choice>
+<FavClass>Druidic</FavClass>
+<Special>Dexterity[2]Constitution[-2]</Special>
+<DmNotes>Immunity to magic sleep effects and +2 racial saving throw on enchantment spells. Low-Light Vision</DmNotes>
+</Race>
+<Race>
+<Name>Gnome</Name>
+<size>small</size>
+<BaseSpeed>20</BaseSpeed>
+<languages>Draconic:Dwarven:Elven:Giant:Goblin:Orc</languages>
+<languages_choice>Common:Gnome</languages_choice>
+<FavClass>Bard</FavClass>
+<Special>Constitution[2]Strength[-2]</Special>
+<DmNotes>Low-light Vision, +2 Saving throw against illusions</DmNotes>
+</Race>
+<Race>
+<Name>Half-Elf</Name>
+<size>medium</size>
+<BaseSpeed>30</BaseSpeed>
+<languages>Abyssal:Aquan:Auran:Celestial:Draconic:Dwarven:Elven:Giant:Gnome:Goblin:Gnoll:Halfling:Ignan:Infernal:Orc:Sylvan:Terran:Undercommon</languages>
+<languages_choice>Common:Elven</languages_choice>
+<FavClass></FavClass>
+<Special></Special>
+<DmNotes>Low-light Vision, Elven Blood</DmNotes>
+</Race>
+<Race>
+<Name>Half-Orc</Name>
+<size>medium</size>
+<BaseSpeed>30</BaseSpeed>
+<languages>Draconic:Giant:Gnoll:Goblin:Abyssal</languages>
+<languages_choice>Common:Orc</languages_choice>
+<FavClass>Druidic</FavClass>
+<Special>Strength[2]Intelligence[-2]Charisma[-2]</Special>
+<DmNotes>DarkVision, Orc-Blood</DmNotes>
+</Race>
+<Race>
+<Name>Halfling</Name>
+<size>medium</size>
+<BaseSpeed>30</BaseSpeed>
+<languages>Dwarven:Elven:Gnome:Goblin:Orc</languages>
+<languages_choice>Common:Halfling</languages_choice>
+<FavClass>Rogue</FavClass>
+<Special>Dexterity[2]Strenght[-2]</Special>
+<DmNotes>+2 morale bonus on saving throws against fear.</DmNotes>
+</Race>
+</d2o>
